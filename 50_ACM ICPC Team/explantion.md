@@ -1,0 +1,1 @@
+I created the `acmTeam` function by checking every possible pair of people and counting how many topics they know collectively. I tracked the maximum number of topics any team knows and how many teams achieve that maximum. Finally, I returned an array containing the maximum topics and the number of teams with that score.

@@ -1,0 +1,1 @@
+I made the alternatingCharacters function to find the minimum deletions needed so no two identical characters are next to each other. I looped through the string and compared each character with the one before it. If they were the same, I increased the deletions counter. In the end, I returned the total deletions required.

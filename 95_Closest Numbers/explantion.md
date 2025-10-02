@@ -1,0 +1,1 @@
+I sorted the array so the closest numbers are next to each other. Then I found the smallest difference between consecutive numbers. After that, I collected all pairs with that difference and returned them.

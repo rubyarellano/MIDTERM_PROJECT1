@@ -1,0 +1,1 @@
+I created the `howManyGames` function by simulating each purchase: starting with price `p`, I subtracted it from the remaining money, incremented the count, and reduced the price by `d` down to a minimum of `m`. I repeated this until there wasn’t enough money to buy the next game, then returned the total count.

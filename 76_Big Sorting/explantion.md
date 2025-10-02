@@ -1,0 +1,1 @@
+I created the bigSorting function to sort very large numbers stored as strings. I used bubble sort, comparing numbers first by their string length (shorter means smaller). If two numbers had the same length, I compared them lexicographically. Whenever they were out of order, I swapped them. Finally, I returned the sorted array.

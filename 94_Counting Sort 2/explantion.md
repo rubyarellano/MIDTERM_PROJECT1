@@ -1,0 +1,1 @@
+I created the countingSort function to sort numbers using a frequency array. First, it counts how many times each number appears. Then, it rebuilds the sorted list by pushing each number into a new array according to its frequency. Finally, it returns the sorted array.

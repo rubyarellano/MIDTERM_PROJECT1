@@ -1,0 +1,1 @@
+I created the `organizingContainers` function by first calculating the total number of balls in each container and the total number of balls of each type. Then I sorted both totals and compared them. If they match, it’s possible to organize the containers so each contains only one type; otherwise, it’s impossible.

@@ -1,0 +1,1 @@
+I created the runningTime function to count how many shifts happen during insertion sort. For each element, I compared it with the sorted part of the array and shifted larger elements to the right until the correct position was found. Each shift was counted, and the function returned the total number of shifts.

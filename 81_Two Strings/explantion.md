@@ -1,0 +1,1 @@
+I made the twoStrings function to check if two strings share any common character. I stored all characters from the first string in a Set, then looped through the second string. If any character matched, I returned "YES". If no match was found, I returned "NO".

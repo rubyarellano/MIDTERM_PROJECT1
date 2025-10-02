@@ -1,0 +1,1 @@
+I created the stringConstruction function to find the minimum cost of building a string. Since each unique character only needs to be added once, I stored all characters in a Set. The size of the set gives the total cost, which I returned.

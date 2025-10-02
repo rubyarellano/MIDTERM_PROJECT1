@@ -1,0 +1,1 @@
+I created the `minimumDistances` function by keeping track of the last index each number was seen using a map. As I looped through the array, whenever a number repeated, I calculated the distance to its previous occurrence and updated the minimum distance. Finally, I returned the smallest distance found, or -1 if no duplicates exist.

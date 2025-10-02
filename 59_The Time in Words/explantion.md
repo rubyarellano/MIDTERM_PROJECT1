@@ -1,0 +1,1 @@
+I created the `timeInWords` function by first defining the words for numbers 0–29. Then, based on the minutes `m`, I handled special cases like 0, 15, 30, and 45. For other values, I expressed the time as "past" the current hour if `m < 30` or "to" the next hour if `m > 30`, properly handling singular and plural minutes.

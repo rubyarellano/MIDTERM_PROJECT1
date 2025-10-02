@@ -1,0 +1,1 @@
+I created the `beautifulTriplets` function by storing all array elements in a set for quick lookup. Then I looped through each number and checked if the numbers `num + d` and `num + 2*d` also exist in the set. If they do, I counted it as a beautiful triplet and returned the total count.

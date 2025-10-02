@@ -1,0 +1,1 @@
+I made the superReducedString function to repeatedly remove pairs of identical adjacent characters. I used a stack: if the current character matched the top of the stack, I popped it; otherwise, I pushed it. In the end, if the stack was empty, I returned "Empty String", otherwise I returned the reduced string.

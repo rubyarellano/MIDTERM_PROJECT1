@@ -1,0 +1,1 @@
+I made the funnyString function to check if a string is "funny." I looped through the string and compared the absolute differences between adjacent characters in the original string and its reverse. If any pair of differences didn’t match, I returned "Not Funny". If all matched, I returned "Funny".

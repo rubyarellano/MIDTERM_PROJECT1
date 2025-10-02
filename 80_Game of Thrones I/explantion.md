@@ -1,0 +1,1 @@
+I created the gameOfThrones function to check if a string can be rearranged into a palindrome. I counted how many times each character appears. Then, I checked how many characters had odd frequencies. If more than one character had an odd count, I returned "NO"; otherwise, I returned "YES".

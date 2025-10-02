@@ -1,0 +1,1 @@
+I created the quickSort function to partition the array using the first element as a pivot. Elements smaller than the pivot go into the left array, equal ones in the middle, and larger ones in the right. Finally, it combines them into a single sorted array.

@@ -1,0 +1,1 @@
+I created insertionSort2 function sorts the array step by step using insertion sort. After each pass, it records the current state of the array and returns all the steps until the array is fully sorted.

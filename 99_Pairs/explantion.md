@@ -1,0 +1,1 @@
+I stored all the numbers from the array in a hash map so I could look them up quickly. Then, I went through the array again and checked if each number plus **k** existed in the map. If it did, I increased the count. Finally, I returned the count as the total number of pairs.

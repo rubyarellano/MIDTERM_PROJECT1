@@ -1,0 +1,1 @@
+I created the gemstones function to count how many characters appear in every string of the array. I started with a set of characters from the first string, then for each remaining string, I compared and kept only the common characters. After checking all strings, I returned the size of the final set, which represents the number of gemstone elements.

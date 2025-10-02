@@ -1,0 +1,1 @@
+I created the gameOfStones function to decide who wins a stone game where players take turns removing 2, 3, or 5 stones. The key pattern is based on n % 7. If the remainder is 0 or 1, the second player wins, so I returned "Second". Otherwise, the first player has a winning strategy, so I returned "First".

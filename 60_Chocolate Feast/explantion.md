@@ -1,0 +1,1 @@
+I created the `chocolateFeast` function by first buying as many chocolates as the money `n` allows, keeping track of chocolates eaten and wrappers. Then, for every `m` wrappers, I exchanged them for free chocolates, updating both the total chocolates and wrappers. I repeated this until no more exchanges were possible and returned the total chocolates eaten.

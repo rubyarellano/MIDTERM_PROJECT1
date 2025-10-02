@@ -1,0 +1,1 @@
+I created the insertionSort1 function to demonstrate one step of insertion sort. I stored the last element as key, then shifted elements greater than key to the right while printing the array at each step. Once the correct spot was found, I placed key there and printed the final array.

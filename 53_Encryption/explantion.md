@@ -1,0 +1,1 @@
+I created the `encryption` function by first removing spaces from the string and determining the grid size using the square root of the string length. Then I read the characters column by column to form words, collected them into an array, and joined them with spaces to produce the encrypted message.

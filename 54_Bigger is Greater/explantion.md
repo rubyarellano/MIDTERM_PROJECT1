@@ -1,0 +1,1 @@
+I created the `biggerIsGreater` function by finding the first character from the end that can be swapped to create a larger permutation. I then swapped it with the smallest character larger than it to its right and reversed the suffix to get the next lexicographically greater string. If no such swap is possible, I returned "no answer".

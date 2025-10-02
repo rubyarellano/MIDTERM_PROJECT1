@@ -1,0 +1,1 @@
+I made the theLoveLetterMystery function to calculate how many operations are needed to make a string a palindrome. I used two pointers, one from the left and one from the right, and compared their characters. For each mismatch, I added the absolute difference of their ASCII values to operations. After moving the pointers inward until they met, I returned the total operations.

@@ -1,0 +1,1 @@
+I made the makingAnagrams function to find how many character deletions are needed to make two strings anagrams of each other. I counted the frequency of characters in both strings separately. Then, I checked all unique characters and calculated the absolute difference between their counts. The sum of these differences gave the total deletions, which I returned.

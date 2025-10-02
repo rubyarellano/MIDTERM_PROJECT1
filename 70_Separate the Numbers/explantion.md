@@ -1,0 +1,1 @@
+I created the separateNumbers function to check if a string can be split into a sequence of increasing consecutive numbers. I tried different starting lengths for the first number, then used a loop to keep building the sequence by adding 1 each time. If the built string matched the input, I printed "YES" with the first number. If no sequence worked, I printed "NO".

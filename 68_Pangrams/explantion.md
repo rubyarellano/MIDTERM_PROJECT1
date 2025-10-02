@@ -1,0 +1,1 @@
+I created the pangrams function to check if a sentence contains every letter of the alphabet. I first converted the string to lowercase, then used a Set to collect unique letters from 'a' to 'z'. If the set had 26 letters, it meant all alphabets were present, so I returned "pangram". Otherwise, I returned "not pangram".

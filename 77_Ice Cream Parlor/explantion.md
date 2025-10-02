@@ -1,0 +1,1 @@
+I made the icecreamParlor function to find two ice cream flavors whose prices add up to the given amount m. I used a Map to store prices and their indices. For each price, I checked if its complement (m - price) was already in the map. If yes, I returned the two indices (1-based). If not, I stored the current price in the map and kept going.

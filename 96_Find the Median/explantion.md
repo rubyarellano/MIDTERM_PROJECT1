@@ -1,0 +1,1 @@
+I sorted the array in ascending order. Then I found the middle index by dividing the length by two and flooring it. Finally, I returned the element at that middle index as the median.

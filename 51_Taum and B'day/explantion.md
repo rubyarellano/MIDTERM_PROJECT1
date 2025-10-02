@@ -1,0 +1,1 @@
+I created the `taumBday` function by first determining the cheaper way to get each gift: either buying it directly or converting the other type with cost `z`. Then I calculated the total cost using `BigInt` to handle large numbers and returned it as a string.
